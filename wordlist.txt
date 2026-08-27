@@ -1,0 +1,4 @@
+/food
+/super
+/admin_panel
+/shutdown
